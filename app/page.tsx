@@ -1,4 +1,4 @@
-import NostalgiaApp from "./components/NostalgiaApp";
+import NostalgiaApp from "./NostalgiaApp";
 
 export default function Page() {
   return <NostalgiaApp />;
